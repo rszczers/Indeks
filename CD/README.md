@@ -49,6 +49,6 @@ Zlokalizowana centralnie klasa App jest „korzeniem” w tej strukturze. W niej
 _inicjalizuje_ się klasa Controller, View i Model.
 
 
-Z innych szczegółów implementacyjncyh warto zwrócić uwagę na klasę DbHelper,
+Z innych szczegółów implementacyjncyh warto zwrócić uwagę na klasę DbHandler,
 która dziedziczy z klasy PDO, która w php realizuje
 obsługę baz danych.
