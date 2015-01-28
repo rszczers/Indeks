@@ -28,7 +28,7 @@ Projekt oparty jest na architekturze MVC. Kontrolery realizują wzorzec
 strategii, Widoki – kompozyt, relacja Modele-Widoki – wzorzec obserwer.
 
 
-Projektując aplikację miałem na uwadze wykonanie jej – tutaj pozwolę sobie na małą krotochwilę – w technologii php i wydaje mi się, że nieznacznie czuć to w kilku miejscach.
+Projektując aplikację miałem na uwadze wykonanie jej – tutaj pozwolę sobie na małą krotochwilę – w _technologii php_ i wydaje mi się, że nieznacznie czuć to w kilku miejscach.
 
 
 Modyfikując odpowiednio pliki htaccess można zmusić serwer Apache do zwrócenia 
