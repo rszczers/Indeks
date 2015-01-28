@@ -24,8 +24,7 @@ Projekt oparty jest na architekturze MVC. Kontrolery realizują wzorzec
 strategii, Widoki – kompozyt, relacja Modele-Widoki – wzorzec obserwer.
 
 
-Projektując aplikację miałem na uwadze wykonanie jej w – tutaj mała krotochwila
-- technologii php i wydaje mi się, że nieznacznie czuć to w kilku miejscach.
+Projektując aplikację miałem na uwadze wykonanie jej w – tutaj mała krotochwila - technologii php i wydaje mi się, że nieznacznie czuć to w kilku miejscach.
 
 
 Klasa Controller zawiera parser url, który odpala odpowiedni kontroler i
