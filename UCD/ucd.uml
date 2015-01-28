@@ -3924,7 +3924,8 @@
 <XPD:OBJ name="OwnedViews[69]" type="UMLExtendView" guid="7141J5/BaEe2lHvGi3x0+AAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">1616,764;1623,597</XPD:ATTR>
+<XPD:ATTR name="LineStyle" type="LineStyleKind">lsRectilinear</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">1623,764;1623,597</XPD:ATTR>
 <XPD:REF name="Model">CBhQ3e4u2kOg/frILavbqgAA</XPD:REF>
 <XPD:REF name="Head">ZE4bcu+PCEuLfk/OGtisxgAA</XPD:REF>
 <XPD:REF name="Tail">slxwo2aZbEa3IzjDTKKbdgAA</XPD:REF>
