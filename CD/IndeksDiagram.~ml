@@ -10366,7 +10366,8 @@
 <XPD:OBJ name="OwnedViews[78]" type="UMLAssociationView" guid="wUhyDVnreEKMoCywEudUnwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">1760,1282;1765,1508</XPD:ATTR>
+<XPD:ATTR name="LineStyle" type="LineStyleKind">lsRectilinear</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">1760,1282;1760,1508</XPD:ATTR>
 <XPD:REF name="Model">Sc72kN2RgEyxYMjAf90R8AAA</XPD:REF>
 <XPD:REF name="Head">Yiw3gvtMykuvDW7TojNi8wAA</XPD:REF>
 <XPD:REF name="Tail">72dLecQGFkKUwnlpIvtuoQAA</XPD:REF>
@@ -10953,7 +10954,7 @@
 </XPD:OBJ>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:ATTR name="#OwnedElements" type="integer">179</XPD:ATTR>
+<XPD:ATTR name="#OwnedElements" type="integer">180</XPD:ATTR>
 <XPD:OBJ name="OwnedElements[0]" type="UMLClass" guid="FffiClx5fE+9rLUrytKDbAAA">
 <XPD:ATTR name="Name" type="string">Acheivements</XPD:ATTR>
 <XPD:REF name="Namespace">3FowdGYOxkSUBkBMqn5OIAAA</XPD:REF>
@@ -13651,6 +13652,10 @@
 <XPD:REF name="Views[2]">5VhVnbHJ3EmAHb+iYYYoPgAA</XPD:REF>
 <XPD:REF name="Views[3]">NZ6sZY8fKEugezas7HIAjQAA</XPD:REF>
 </XPD:OBJ>
+</XPD:OBJ>
+<XPD:OBJ name="OwnedElements[179]" type="UMLInterface" guid="dybka0UNoEubhSkCWUHYiQAA">
+<XPD:ATTR name="Name" type="string">Kim, Jeongil</XPD:ATTR>
+<XPD:REF name="Namespace">3FowdGYOxkSUBkBMqn5OIAAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[2]" type="UMLModel" guid="kwGTXH/d/Em1Og/ryASbRAAA">
