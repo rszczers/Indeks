@@ -18,8 +18,8 @@ generalizację, niż używać notacji proponowanej przez program (zwykłej kresk
 między klasami).
 
 Smutno, że Whitstar nie umie listować prototypów metod określonych w
-interfejsach. Ze względu na to przejście z wysokopoziomowych modeli do klas,
-które zajmują się obsługą bazy danych jest na diagramie zupełnie niewyraźne.
+interfejsach. Ze względu na to zupełnie niewyraźnie zaznaczone jest na diagramie przejście z wysokopoziomowych modeli do klas,
+które zajmują się obsługą bazy danych.
 
 
 Szczegóły projektowe
