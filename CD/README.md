@@ -25,7 +25,7 @@ strategii, Widoki – kompozyt, relacja Modele-Widoki – wzorzec obserwer.
 
 
 Projektując aplikację miałem na uwadze wykonanie jej w – tutaj moment
-satyryczny - w technologii php i wydaje mi się, że nieznacznie czuć to w kilku miejscach.
+satyryczny - technologii php i wydaje mi się, że nieznacznie czuć to w kilku miejscach.
 
 
 Klasa Controller zawiera parser url, który odpala odpowiedni kontroler i
