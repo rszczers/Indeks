@@ -1,7 +1,7 @@
 #Diagram klas
 
 - [Diagram klas, grafika](https://raw.githubusercontent.com/rszczers/Indeks/master/CD/cd.jpg)
-- [Diagram klas, plik źródłowy](./cd.uml)
+- [Diagram klas, plik źródłowy](https://github.com/rszczers/Indeks/raw/master/CD/cd.uml)
 
 
 
