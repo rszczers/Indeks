@@ -7,7 +7,6 @@
 
 
 ###Konwencje
-----
 
 Trzymając się zaleceń, diagram wykonany jest we Whitestar UML. 
 Tutaj chciałbym zwrócić uwagę na kilka szczegółów. 
@@ -24,7 +23,7 @@ które zajmują się obsługą bazy danych.
 
 
 ###Szczegóły projektowe
-----
+
 Projekt oparty jest na architekturze MVC. Kontrolery realizują wzorzec
 strategii, Widoki – kompozyt, relacja Modele-Widoki – wzorzec obserwer.
 
@@ -52,6 +51,7 @@ _inicjalizuje_ się klasa Controller, View i Model.
 
 Z innych szczegółów implementacyjncyh warto zwrócić uwagę na klasę DbHandler,
 która dziedziczy z klasy PDO, która w php jest odpowiedzialna za bezpieczną 
-obsługę baz danych.  
+obsługę baz danych. 
+
 
 ![DFD](./cd.jpg)
