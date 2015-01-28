@@ -1,5 +1,5 @@
-Wirtualny Indeks
-================
+#Wirtualny Indeks
+
 System umożliwia wpisywanie ocen studentom.
 
 Struktura repozytorium
