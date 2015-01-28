@@ -50,5 +50,5 @@ _inicjalizuje_ się klasa Controller, View i Model.
 
 
 Z innych szczegółów implementacyjncyh warto zwrócić uwagę na klasę DbHandler,
-która dziedziczy z klasy PDO, która w php realizuje
+która dziedziczy z klasy PDO, która w php jest odpowiedzialna za bezpieczną 
 obsługę baz danych.
