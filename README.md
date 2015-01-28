@@ -1,9 +1,9 @@
-Wirtualny Indeks
-================
+#Wirtualny Indeks
+
 System umożliwia wpisywanie ocen studentom.
 
-Struktura repozytorium
-----------------------
+###Struktura repozytorium
+
 
 **CD** – *Class Diagram* – diagramy klas  
 **DBD** – *Database Diagram* – diagram bazy danych  
