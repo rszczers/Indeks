@@ -1,6 +1,6 @@
 #Diagram klas
 
-- [Diagram klas, grafika](./cd.jpg)
+- [Diagram klas, grafika](https://raw.githubusercontent.com/rszczers/Indeks/master/CD/cd.jpg)
 - [Diagram klas, plik źródłowy](./cd.uml)
 
 
