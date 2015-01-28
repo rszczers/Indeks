@@ -11,11 +11,11 @@ Tutaj chciałbym zwrócić uwagę na kilka szczegółów.
 Konwencje
 ----
 
-Linię oznaczającą implementację kreśli się w nim prostą ciągłą kreską zamiast
-zwyczajnie, jak sądzę – przerywaną z białym grotem. Tam gdzie klasy implementują
+Chcąc zaznaczyć implementowanie interfejsu przez klasę program kreśli linię
+ciągłą między klasą a interfejsem zamiast, jak mi się wydaje, przerywanej linii
+zakończonej białym grotem. Dlatego tam gdzie klasy implementują
 interfejs uznałem, że rozsądniej będzie zaznaczyć implementację przez
-generalizację, niż używać notacji proponowanej przez program (zwykłej kreski
-między klasami).
+generalizację, niż używać notacji proponowanej przez program.
 
 Smutno, że Whitstar nie umie listować prototypów metod określonych w
 interfejsach. Ze względu na to zupełnie niewyraźnie zaznaczone jest na diagramie przejście z wysokopoziomowych modeli do klas,
