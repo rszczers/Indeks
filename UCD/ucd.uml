@@ -4595,15 +4595,15 @@
 <XPD:OBJ name="OwnedViews[81]" type="UMLUseCaseView" guid="pBSaM+Qfq0KeeVVugF8JkAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">804</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">516</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">161</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">772</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">512</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">202</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:REF name="Model">YWlZmTVT/k2ZNl/IlAUCAQAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="LzUOr3kv+E2cJHGbtayM3gAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="HDsedzMchk+GbB+hh62+vgAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Generuj protok&#243;&#322;</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Generowanie protoko&#322;u</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="uBC3cn5X9USfZ2imou7BKgAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -4628,15 +4628,15 @@
 <XPD:OBJ name="OwnedViews[82]" type="UMLUseCaseView" guid="rAdBi9epjESRpcHDws6VzwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">1004</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">516</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">135</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">992</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">512</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">181</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">45</XPD:ATTR>
 <XPD:REF name="Model">cxehlVN5dE+zVMHx52TqVQAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="g7NU2+YAkUiKMiqH0KP4IgAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="kDsE5g+QtE29Z3OU8Kh6nAAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Wy&#347;lij protok&#243;&#322;</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Wysy&#322;anie protoko&#322;u</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="AJ6b81FHsEGqVKLJXlDaKgAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -4694,7 +4694,7 @@
 <XPD:OBJ name="OwnedViews[84]" type="UMLAssociationView" guid="VwhCH/MPf02GJSSZCLyvYgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">982,444;907,516</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">975,444;897,512</XPD:ATTR>
 <XPD:REF name="Model">wC7JbiLjfkawJyacPuTfEQAA</XPD:REF>
 <XPD:REF name="Head">pBSaM+Qfq0KeeVVugF8JkAAA</XPD:REF>
 <XPD:REF name="Tail">kRkg3FC1xUOLSfYB++YT2QAA</XPD:REF>
@@ -4778,7 +4778,7 @@
 <XPD:OBJ name="OwnedViews[85]" type="UMLAssociationView" guid="uPyVBMKkrEm2T1a0g3e4QwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">1056,444;1067,516</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">1061,444;1077,512</XPD:ATTR>
 <XPD:REF name="Model">Dw/9zQ8qmUeszMG5Pk5unQAA</XPD:REF>
 <XPD:REF name="Head">rAdBi9epjESRpcHDws6VzwAA</XPD:REF>
 <XPD:REF name="Tail">kRkg3FC1xUOLSfYB++YT2QAA</XPD:REF>
@@ -4946,7 +4946,7 @@
 <XPD:OBJ name="OwnedViews[87]" type="UMLAssociationView" guid="HaVjiPu0CkqGPOoQNQZPyAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">966,608;910,560</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">963,608;899,556</XPD:ATTR>
 <XPD:REF name="Model">NWA+zlyn/Uepn5M6j91SGgAA</XPD:REF>
 <XPD:REF name="Head">pBSaM+Qfq0KeeVVugF8JkAAA</XPD:REF>
 <XPD:REF name="Tail">XI5G95SqL0+mELAP+05C0gAA</XPD:REF>
@@ -5030,7 +5030,7 @@
 <XPD:OBJ name="OwnedViews[88]" type="UMLAssociationView" guid="rvJH4qaz1kaKnU4IzX9AwwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">1031,608;1058,560</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">1034,608;1068,556</XPD:ATTR>
 <XPD:REF name="Model">PXXnNFiM0kuweiqnQQCOmQAA</XPD:REF>
 <XPD:REF name="Head">rAdBi9epjESRpcHDws6VzwAA</XPD:REF>
 <XPD:REF name="Tail">XI5G95SqL0+mELAP+05C0gAA</XPD:REF>
@@ -7713,7 +7713,7 @@
 <XPD:REF name="Views[3]">DBYiUdMNf0qsOnB4yieKggAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[170]" type="UMLUseCase" guid="YWlZmTVT/k2ZNl/IlAUCAQAA">
-<XPD:ATTR name="Name" type="string">Generuj protok&#243;&#322;</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">Generowanie protoko&#322;u</XPD:ATTR>
 <XPD:REF name="Namespace">jzkMyMMCR0yh5MOk98ZY8gAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">pBSaM+Qfq0KeeVVugF8JkAAA</XPD:REF>
@@ -7737,7 +7737,7 @@
 <XPD:REF name="Associations[0]">Ev1MWXAGO0yXM7JvdM7p9AAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[173]" type="UMLUseCase" guid="cxehlVN5dE+zVMHx52TqVQAA">
-<XPD:ATTR name="Name" type="string">Wy&#347;lij protok&#243;&#322;</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">Wysy&#322;anie protoko&#322;u</XPD:ATTR>
 <XPD:REF name="Namespace">jzkMyMMCR0yh5MOk98ZY8gAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">rAdBi9epjESRpcHDws6VzwAA</XPD:REF>
