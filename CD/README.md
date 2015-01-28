@@ -1,8 +1,11 @@
 Wirtualny Indeks
 ====
-
 Diagram klas
 ----
+
+- [Diagram klas, grafika](./cd.jpg)
+- [Diagram klas, plik źródłowy](./cd.uml)
+
 
 Trzymając się zaleceń, diagram wykonany jest we Whitestar UML. 
 Tutaj chciałbym zwrócić uwagę na kilka szczegółów. 
