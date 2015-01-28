@@ -1,18 +1,16 @@
-Wirtualny Indeks
-====
-Diagram klas
-----
+#Diagram klas
 
 - [Diagram klas, grafika](./cd.jpg)
 - [Diagram klas, plik źródłowy](./cd.uml)
 
 
+
+
+###Konwencje
+----
+
 Trzymając się zaleceń, diagram wykonany jest we Whitestar UML. 
 Tutaj chciałbym zwrócić uwagę na kilka szczegółów. 
-
-
-Konwencje
-----
 
 Chcąc zaznaczyć implementowanie interfejsu przez klasę, program kreśli linię
 ciągłą między klasą a interfejsem. Słuszniej byłoby, jak mi się wydaje, zamiast tego użyć przerywanej linii
@@ -25,7 +23,7 @@ interfejsach. Ze względu na to zupełnie niewyraźnie zaznaczone jest na diagra
 które zajmują się obsługą bazy danych.
 
 
-Szczegóły projektowe
+###Szczegóły projektowe
 ----
 Projekt oparty jest na architekturze MVC. Kontrolery realizują wzorzec
 strategii, Widoki – kompozyt, relacja Modele-Widoki – wzorzec obserwer.
