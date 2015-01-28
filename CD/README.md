@@ -42,6 +42,10 @@ poszczególnych stron są zakodowane na twardo przy użyciu gotowych komponentó
 widoków, których diagram nie uwzględnia.
 
 
+Zlokalizowana centralnie klasa App jest „korzeniem” w tej strukturze. W niej
+inicjalizuje się klasa Controller, View i Model.
+
+
 Z innych szczegółów implementacyjncyh warto zwrócić uwagę na klasę DbHelper,
 która dziedziczy z klasy PDO, która w php realizuje
 obsługę baz danych.
