@@ -33,6 +33,8 @@ Projektując aplikację miałem na uwadze wykonanie jej w – tutaj mała kroto
 
 Klasa Controller zawiera parser url, który odpala odpowiedni kontroler i
 przekazuje mu odpowiednie argumenty po wyklikaniu przez użytownika odpowiedniego adresu.
+Modyfikując odpowiednio pliki htaccess można zmusić serwer Apache do zwrócenia
+url GET'em.
 To całkiem klasyczne rozwiązanie stosowane w popularnych cms'ach.
 
 
