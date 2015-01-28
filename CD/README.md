@@ -17,6 +17,10 @@ interfejs uznałem, że rozsądniej będzie zaznaczyć implementację przez
 generalizację, niż używać notacji proponowanej przez program (zwykłej kreski
 między klasami).
 
+Smutno, że Whitstar nie umie listować prototypów metod określonych w
+interfejsach. Ze względu na to przejście z wysokopoziomowych modeli do klas,
+które zajmują się obsługą bazy danych jest na diagramie zupełnie niewyraźne.
+
 
 Szczegóły projektowe
 ----
