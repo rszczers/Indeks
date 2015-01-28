@@ -31,12 +31,13 @@ strategii, Widoki – kompozyt, relacja Modele-Widoki – wzorzec obserwer.
 Projektując aplikację miałem na uwadze wykonanie jej w – tutaj mała krotochwila – technologii php i wydaje mi się, że nieznacznie czuć to w kilku miejscach.
 
 
+Modyfikując odpowiednio pliki htaccess można zmusić serwer Apache do zwrócenia 
+url GET'em. URL może niejawnie zawierać nazwę kontrolera, który konieczny jest do
+wyświetlenia żądanej przez użytkownika zawartości i argumentów (http://adres/kontroler/argument1/argument2/…).
 Klasa Controller zawiera parser url, który odpala odpowiedni kontroler i
 przekazuje mu odpowiednie argumenty po wyklikaniu przez użytownika odpowiedniego adresu.
-Modyfikując odpowiednio pliki htaccess można zmusić serwer Apache do zwrócenia
-url GET'em.
-To całkiem klasyczne rozwiązanie stosowane w popularnych cms'ach.
-
+W ten sposób rozdzielamy kod odpowiedzialny za wyświetlanie treści od kodu do
+zarządzania nią.
 
 Widoki zorganizowane są w drzewo komponentów. Komponenty (np. GroupListView) są
 pewnymi powtarzającymi się elementami strony (formularze, listy itp). Definicje
