@@ -11,8 +11,8 @@ Tutaj chciałbym zwrócić uwagę na kilka szczegółów.
 Konwencje
 ----
 
-Chcąc zaznaczyć implementowanie interfejsu przez klasę program kreśli linię
-ciągłą między klasą a interfejsem zamiast, jak mi się wydaje, przerywanej linii
+Chcąc zaznaczyć implementowanie interfejsu przez klasę, program kreśli linię
+ciągłą między klasą a interfejsem. Słuszniej byłoby, jak mi się wydaje, zamiast tego użyć przerywanej linii
 zakończonej białym grotem. Dlatego tam gdzie klasy implementują
 interfejs uznałem, że rozsądniej będzie zaznaczyć implementację przez
 generalizację, niż używać notacji proponowanej przez program.
