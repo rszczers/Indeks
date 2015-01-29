@@ -9,7 +9,7 @@ Trzymając się zaleceń, diagram wykonany jest we Whitestar UML.
 ###Szczegóły projektowe
 
 Projekt oparty jest na architekturze MVC. Kontrolery realizują wzorzec
-strategii, Widoki – kompozyt, relacja Modele-Widoki – wzorzec obserwer.
+strategii, Widoki – kompozyt, relacja Modele-Widoki – wzorzec obserwer, klasy z prefiksem DOA - wzorzec Data Access Object (no, prawie…)
 
 
 Projektując aplikację miałem na uwadze wykonanie jej – tutaj pozwolę sobie na małą krotochwilę – w _technologii php_ i wydaje mi się, że nieznacznie czuć to w kilku miejscach.
