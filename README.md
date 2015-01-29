@@ -12,4 +12,5 @@ System umożliwia wpisywanie ocen studentom.
 [**UCD**](./UCD/) – *Use Case Diagram* – diagram przypadków użycia  
 
 ###Więcej
+
 [@github](https://github.com/edytapawlak/Indeks)
