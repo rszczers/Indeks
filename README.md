@@ -10,3 +10,6 @@ System umożliwia wpisywanie ocen studentom.
 [**DFD**](./DFD/) – *Data Flow Diagram* – diagram przepływu danych  
 [**UC**](./UC/) – *Use Cases* – lista przypadków użycia  
 [**UCD**](./UCD/) – *Use Case Diagram* – diagram przypadków użycia  
+
+###Więcej
+[@github](https://github.com/edytapawlak/Indeks)
