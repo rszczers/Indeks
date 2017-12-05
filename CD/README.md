@@ -1,4 +1,4 @@
-#Diagram klas
+# Diagram klas
 
 - [Diagram klas, grafika](https://raw.githubusercontent.com/rszczers/Indeks/master/CD/cd.jpg)
 - [Diagram klas, plik źródłowy](https://github.com/rszczers/Indeks/raw/master/CD/cd.uml)
@@ -6,7 +6,7 @@
 Trzymając się zaleceń, diagram wykonany jest we Whitestar UML. 
 
 
-###Szczegóły projektowe
+### Szczegóły projektowe
 
 Projekt oparty jest na architekturze MVC. Kontrolery realizują wzorzec
 strategii, Widoki – kompozyt, relacja Modele-Widoki – wzorzec obserwer, klasy z prefiksem DOA - wzorzec Data Access Object (no, prawie…)
