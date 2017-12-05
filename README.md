@@ -1,8 +1,8 @@
-#Wirtualny Indeks
+# Wirtualny Indeks
 
 System umożliwia wpisywanie ocen studentom.
 
-###Struktura repozytorium
+### Struktura repozytorium
 
 
 [**CD**](./CD/) – *Class Diagram* – diagramy klas  
@@ -11,6 +11,6 @@ System umożliwia wpisywanie ocen studentom.
 [**UC**](./UC/) – *Use Cases* – lista przypadków użycia  
 [**UCD**](./UCD/) – *Use Case Diagram* – diagram przypadków użycia  
 
-###Więcej
+### Więcej
 
 [@github](https://github.com/edytapawlak/Indeks)
